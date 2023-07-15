@@ -1,16 +1,10 @@
 # messenger
 
-A new Flutter project.
+messenger-screen like messenger app 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Screen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1689009424330](https://github.com/mohamedshehabeldean/messenger-screen/assets/104523670/777b002b-d1e6-40e7-8c40-a7b31940c37e)
